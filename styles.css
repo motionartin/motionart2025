@@ -1,0 +1,632 @@
+.home-page {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.home-page .div {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 3890px;
+  position: relative;
+}
+
+.home-page .overlap {
+  position: absolute;
+  width: 1330px;
+  height: 1289px;
+  top: 2110px;
+  left: 52px;
+  background-color: #161716;
+  border-radius: 24px;
+}
+
+.home-page .text-wrapper {
+  position: absolute;
+  width: 279px;
+  top: 65px;
+  left: 84px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 42px;
+  letter-spacing: 0;
+  line-height: 56.7px;
+  white-space: nowrap;
+}
+
+.home-page .p {
+  position: absolute;
+  width: 709px;
+  top: 151px;
+  left: 92px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+}
+
+.home-page .group {
+  position: absolute;
+  width: 241px;
+  height: 76px;
+  top: 1175px;
+  left: 547px;
+}
+
+.home-page .overlap-group {
+  position: absolute;
+  width: 379px;
+  height: 410px;
+  top: 288px;
+  left: 68px;
+  background-color: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0px 4px 54px -15px #09b462;
+}
+
+.home-page .wedding-films {
+  position: absolute;
+  width: 279px;
+  top: 147px;
+  left: 27px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 600;
+  color: #111204;
+  font-size: 26px;
+  letter-spacing: 0;
+  line-height: 35.1px;
+}
+
+.home-page .text-wrapper-2 {
+  position: absolute;
+  width: 279px;
+  top: 240px;
+  left: 27px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 500;
+  color: #111204;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 24.3px;
+}
+
+.home-page .overlap-2 {
+  position: absolute;
+  width: 379px;
+  height: 410px;
+  top: 726px;
+  left: 68px;
+  background-color: #ffffff;
+  border-radius: 16px;
+}
+
+.home-page .video-editing-post {
+  position: absolute;
+  width: 245px;
+  top: 147px;
+  left: 27px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 600;
+  color: #111204;
+  font-size: 26px;
+  letter-spacing: 0;
+  line-height: 35.1px;
+}
+
+.home-page .overlap-3 {
+  position: absolute;
+  width: 379px;
+  height: 410px;
+  top: 288px;
+  left: 476px;
+  background-color: #ffffff;
+  border-radius: 16px;
+}
+
+.home-page .text-wrapper-3 {
+  position: absolute;
+  width: 279px;
+  top: 147px;
+  left: 50px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 600;
+  color: #111204;
+  font-size: 26px;
+  letter-spacing: 0;
+  line-height: 35.1px;
+}
+
+.home-page .text-wrapper-4 {
+  position: absolute;
+  width: 279px;
+  top: 240px;
+  left: 50px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 500;
+  color: #111204;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 24.3px;
+}
+
+.home-page .overlap-4 {
+  position: absolute;
+  width: 379px;
+  height: 410px;
+  top: 726px;
+  left: 476px;
+  background-color: #ffffff;
+  border-radius: 16px;
+}
+
+.home-page .overlap-5 {
+  position: absolute;
+  width: 379px;
+  height: 410px;
+  top: 288px;
+  left: 884px;
+  background-color: #ffffff;
+  border-radius: 16px;
+}
+
+.home-page .overlap-6 {
+  position: absolute;
+  width: 379px;
+  height: 410px;
+  top: 726px;
+  left: 884px;
+  background-color: #ffffff;
+  border-radius: 16px;
+}
+
+.home-page .overlap-7 {
+  position: absolute;
+  width: 1440px;
+  height: 798px;
+  top: 0;
+  left: 0;
+  background-color: #161716;
+}
+
+.home-page .a-creative-space {
+  position: absolute;
+  width: 791px;
+  top: 204px;
+  left: 145px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: 86.4px;
+}
+
+.home-page .we-merge-design-and {
+  position: absolute;
+  width: 477px;
+  top: 598px;
+  left: 851px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 48.6px;
+}
+
+.home-page .menu-bar {
+  position: absolute;
+  width: 1153px;
+  height: 76px;
+  top: 17px;
+  left: 137px;
+}
+
+.home-page .group-2 {
+  position: absolute;
+  width: 755px;
+  height: 52px;
+  top: 24px;
+  left: 400px;
+}
+
+.home-page .services-our {
+  position: absolute;
+  top: 15px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .overlap-group-wrapper {
+  position: absolute;
+  width: 169px;
+  height: 52px;
+  top: 0;
+  left: 586px;
+}
+
+.home-page .div-wrapper {
+  position: relative;
+  width: 167px;
+  height: 52px;
+  background-color: #09b462;
+  border-radius: 48px;
+  box-shadow: 0px 0px 8px #bbfcdca3;
+}
+
+.home-page .text-wrapper-5 {
+  position: absolute;
+  top: 15px;
+  left: 34px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .vector {
+  position: absolute;
+  width: 75px;
+  height: 3px;
+  top: 44px;
+  left: 0;
+}
+
+.home-page .vector-wrapper {
+  position: absolute;
+  width: 132px;
+  height: 61px;
+  top: 0;
+  left: 0;
+  background-image: url(https://c.animaapp.com/maidx73xJAKdfr/img/group-164.png);
+  background-size: 100% 100%;
+}
+
+.home-page .img {
+  position: absolute;
+  width: 16px;
+  height: 11px;
+  top: 33px;
+  left: 115px;
+}
+
+.home-page .line {
+  position: absolute;
+  width: 1440px;
+  height: 1px;
+  top: 124px;
+  left: 0;
+  object-fit: cover;
+}
+
+.home-page .overlap-8 {
+  position: absolute;
+  width: 1440px;
+  height: 391px;
+  top: 3500px;
+  left: 0;
+  background-color: #2e2e2e;
+}
+
+.home-page .text-wrapper-6 {
+  position: absolute;
+  width: 921px;
+  top: 56px;
+  left: 259px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 21px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 28.4px;
+}
+
+.home-page .group-3 {
+  position: absolute;
+  width: 132px;
+  height: 87px;
+  top: 263px;
+  left: 155px;
+}
+
+.home-page .group-4 {
+  position: absolute;
+  width: 419px;
+  height: 27px;
+  top: 156px;
+  left: 514px;
+}
+
+.home-page .home {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Manrope", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .experience {
+  position: absolute;
+  top: 0;
+  left: 115px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 600;
+  color: #09b462;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .news {
+  position: absolute;
+  top: 0;
+  left: 223px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 600;
+  color: #09b462;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .text-wrapper-7 {
+  position: absolute;
+  top: 0;
+  left: 332px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 600;
+  color: #09b462;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .copyright-f {
+  position: absolute;
+  top: 297px;
+  left: 616px;
+  opacity: 0.65;
+  font-family: "Manrope", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .social {
+  position: absolute;
+  width: 145px;
+  height: 39px;
+  top: 287px;
+  left: 1140px;
+}
+
+.home-page .twitter-icon {
+  position: absolute;
+  width: 39px;
+  height: 39px;
+  top: 0;
+  left: 106px;
+  border-radius: 19.5px;
+  border: 1.5px solid;
+  border-color: #ffffff26;
+}
+
+.home-page .twitter {
+  position: absolute;
+  width: 13px;
+  height: 11px;
+  top: 12px;
+  left: 12px;
+}
+
+.home-page .linkedin-icon {
+  position: absolute;
+  width: 39px;
+  height: 39px;
+  top: 0;
+  left: 53px;
+  border-radius: 19.5px;
+  border: 1.5px solid;
+  border-color: #ffffff26;
+}
+
+.home-page .group-5 {
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  top: 10px;
+  left: 12px;
+}
+
+.home-page .facebook-icon {
+  position: absolute;
+  width: 39px;
+  height: 39px;
+  top: 0;
+  left: 0;
+  border-radius: 19.5px;
+  border: 1.5px solid;
+  border-color: #ffffff26;
+}
+
+.home-page .shape {
+  position: absolute;
+  width: 7px;
+  height: 15px;
+  top: 10px;
+  left: 14px;
+}
+
+.home-page .divider {
+  position: absolute;
+  width: 1369px;
+  height: 1px;
+  top: 226px;
+  left: 35px;
+}
+
+.home-page .vector-2 {
+  position: absolute;
+  width: 75px;
+  height: 3px;
+  top: 188px;
+  left: 521px;
+}
+
+.home-page .see-how-we-can-help {
+  position: absolute;
+  width: 375px;
+  top: 1868px;
+  left: 145px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 600;
+  color: #111204;
+  font-size: 29px;
+  letter-spacing: 0;
+  line-height: 39.2px;
+}
+
+.home-page .text-wrapper-8 {
+  position: absolute;
+  width: 296px;
+  top: 1676px;
+  left: 145px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 600;
+  color: #111204;
+  font-size: 42px;
+  letter-spacing: 0;
+  line-height: 56.7px;
+  white-space: nowrap;
+}
+
+.home-page .at-motion-art-we {
+  position: absolute;
+  width: 1190px;
+  top: 1751px;
+  left: 145px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+}
+
+.home-page .span {
+  font-weight: 500;
+  color: #111204;
+}
+
+.home-page .text-wrapper-9 {
+  font-weight: 700;
+  color: #09b462;
+}
+
+.home-page .group-wrapper {
+  position: absolute;
+  width: 176px;
+  height: 52px;
+  top: 1958px;
+  left: 632px;
+}
+
+.home-page .group-6 {
+  width: 178px;
+  height: 52px;
+}
+
+.home-page .overlap-group-2 {
+  position: relative;
+  width: 176px;
+  height: 52px;
+  background-color: #09b462;
+  border-radius: 62px;
+  box-shadow: 0px 0px 21px #09b462;
+}
+
+.home-page .text-wrapper-10 {
+  position: absolute;
+  top: 14px;
+  left: 32px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .overlap-9 {
+  position: absolute;
+  width: 1330px;
+  height: 748px;
+  top: 848px;
+  left: 52px;
+  background-image: url(https://c.animaapp.com/maidx73xJAKdfr/img/mask-group.png);
+  background-size: 100% 100%;
+}
+
+.home-page .overlap-wrapper {
+  position: relative;
+  width: 222px;
+  height: 222px;
+  top: 263px;
+  left: 554px;
+  background-color: #09b4622b;
+  border-radius: 62px;
+}
+
+.home-page .overlap-10 {
+  position: relative;
+  width: 175px;
+  height: 175px;
+  top: 26px;
+  left: 21px;
+  background-color: #09b46280;
+  border-radius: 62px;
+}
+
+.home-page .rectangle {
+  position: absolute;
+  width: 128px;
+  height: 128px;
+  top: 21px;
+  left: 26px;
+  background-color: #09b462;
+  border-radius: 88px;
+}
+
+.home-page .polygon {
+  position: absolute;
+  width: 47px;
+  height: 54px;
+  top: 61px;
+  left: 72px;
+}
